@@ -16,18 +16,18 @@ This GitHub is where I share **experiments, frameworks, and tools** that reflect
 ## 📊 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaushikkuberanathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushikkuberanathan&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Kaushik's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=kaushikkuberanathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kaushikkuberanathan&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="Kaushik's GitHub stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkuberanathan&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikkuberanathan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaushikkuberanathan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaushikkuberanathan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=kaushikkuberanathan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikkuberanathan&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=kaushikkuberanathan&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kaushikkuberanathan&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </picture>
 
 ---
