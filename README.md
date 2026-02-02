@@ -58,6 +58,15 @@ If that resonates, I’m happy to chat.
 ---
 
 ## 📬 Connect
+
+## Connect with me
+<a href="https://www.linkedin.com/in/kaushikkumarkuberanathan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:kaushik.kuberanathan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 - 💼 LinkedIn: https://www.linkedin.com/in/kaushikkumarkuberanathan/
 - 🧠 Career Strategy GPT: https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team
 - 📫 Email: kaushik.kuberanathan@gmail.com
