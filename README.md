@@ -95,7 +95,7 @@ I’m interested in working with people who care about quality, clarity, and lon
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik%20Kuberanathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikkumarkuberanathan/)   [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaushik.kuberanathan@gmail.com)   [![Career Strategy GPT](https://img.shields.io/badge/AI%20Career%20Tool-Open%20GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik%20Kuberanathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikkumarkuberanathan/) |  [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaushik.kuberanathan@gmail.com)  |  [![Career Strategy GPT](https://img.shields.io/badge/AI%20Career%20Tool-Open%20GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team)
 
 ---
 
