@@ -2,7 +2,7 @@ Hi, I’m Kaushik 👋
 Product leader building digital commerce platforms, AI-powered products, and customer experiences at scale.
 Builder. Coach. Systems thinker.
 
-By day, I lead product strategy for digital self-service, commerce, and customer experience platforms serving millions of customer interactions across residential, mobile, and commercial businesses. I focus on building scalable digital platforms, mobile-first experiences, and thoughtful AI-assisted systems that help people make better decisions — whether that’s customers using products, professionals navigating their careers, or coaches managing real-world complexity on the field.
+By day, I lead product strategy for digital self-service, commerce, and customer experience platforms serving millions of customers across residential, mobile, and commercial businesses. I focus on building scalable digital platforms, mobile-first experiences, and thoughtful AI-assisted systems that help people make better decisions — whether that’s customers using products, professionals navigating their careers, or coaches managing real-world complexity on the field.
 
 ---
 
@@ -13,6 +13,16 @@ By day, I lead product strategy for digital self-service, commerce, and customer
 • Product Discovery & Experimentation
 • Youth Sports Technology
 • Product Leadership & Mentoring
+
+---
+
+## Why I Build
+
+I enjoy turning ambiguity into clarity.
+
+Whether the challenge involves customers navigating complex products, professionals making career decisions, or coaches managing game-day operations, I'm drawn to problems where thoughtful systems can reduce friction and improve outcomes.
+
+The common thread across everything I build is helping people make better decisions with greater confidence.
 
 ---
 
@@ -37,7 +47,7 @@ AI is most valuable when it amplifies human judgment rather than replacing it.
 
 ---
 
-## 🚀 Featured Project: Lineup Generator
+## 🚀 Featured Project: Dugout Lineup
 
 🌐 Live App: https://line-up-generator.vercel.app/  
 📦 GitHub Repo: https://github.com/kaushikkuberanathan/lineup_generator  
@@ -98,7 +108,7 @@ Exploring how AI can support — not override — judgment.
 I’m interested in working with people who care about quality, clarity, and long-term thinking, especially around:
 
 - AI-assisted productivity (career, product, decision-making)  
-- Prompt systems that behave like products  
+- AI-powered products and decision-support systems 
 - Real-world coordination tools (sports, education, communities)  
 - Open-source frameworks that help people think better, not just move faster  
 
