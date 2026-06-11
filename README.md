@@ -1,7 +1,18 @@
 Hi, I’m Kaushik 👋  
-Product leader, builder, and youth baseball coach.
+Product leader building digital commerce platforms, AI-powered products, and customer experiences at scale.
+Builder. Coach. Systems thinker.
 
-I focus on building scalable digital platforms, mobile-first experiences, and thoughtful AI-assisted systems that help people make better decisions — whether that’s customers using products, professionals navigating their careers, or coaches managing real-world complexity on the field.
+By day, I lead product strategy for digital self-service, commerce, and customer experience platforms serving millions of customer interactions across residential, mobile, and commercial businesses. I focus on building scalable digital platforms, mobile-first experiences, and thoughtful AI-assisted systems that help people make better decisions — whether that’s customers using products, professionals navigating their careers, or coaches managing real-world complexity on the field.
+
+---
+
+## Current Focus
+
+• Digital Commerce & Customer Experience
+• AI Product Innovation
+• Product Discovery & Experimentation
+• Youth Sports Technology
+• Product Leadership & Mentoring
 
 ---
 
@@ -13,6 +24,16 @@ That perspective directly shapes how I build products:
 - Systems must work **under pressure**
 - Decisions must be **clear and explainable**
 - Tools should reduce **cognitive load**, not add to it
+
+---
+
+## Product Philosophy
+
+I believe the best products reduce complexity, increase confidence, and help people make better decisions.
+
+Whether I'm building digital commerce platforms, AI-powered systems, or youth sports tools, I focus on creating experiences that are intuitive, transparent, and trustworthy.
+
+AI is most valuable when it amplifies human judgment rather than replacing it.
 
 ---
 
@@ -37,7 +58,7 @@ This project applies product thinking to a real-world coordination problem invol
 
 ## 🧠 What I’m Working On
 
-### AI + Career Strategy
+### AI-Powered Decision Systems
 **Kaushik’s Career Strategy Team (Custom GPT)**  
 A multi-persona career decision engine modeled after how hiring actually works (Recruiter + HRBP + Resume Strategist).  
 
@@ -64,7 +85,7 @@ Prompt frameworks for:
 ## 🧩 Side Projects & Experiments
 
 - AI-assisted product discovery and documentation  
-- Prompt engineering as a product interface  
+- Conversational interfaces and AI-assisted workflows
 - Lineup Generator (youth sports coordination system)  
 - Lightweight systems that reduce cognitive load for humans  
 
@@ -99,5 +120,6 @@ I’m interested in working with people who care about quality, clarity, and lon
 
 ---
 
-**I believe good systems respect human judgment, not replace it.**  
+**I believe the best systems respect human judgment, reduce complexity, and create clarity when decisions matter most.**  
+
 Most of what I build starts there.
