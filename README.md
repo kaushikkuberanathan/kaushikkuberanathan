@@ -9,6 +9,10 @@ I also build hands-on software and AI-assisted tools, including a live youth-spo
 
 The common thread across my work is simple: **reduce complexity, improve decision quality, and build systems people can trust.**
 
+## Product Leadership Portfolio
+
+[View my portfolio](https://kaushikkuberanathan.github.io/) — digital commerce platforms, AI-assisted products, enterprise modernization, and hands-on builder projects.
+
 ---
 
 ## What I'm Known For
