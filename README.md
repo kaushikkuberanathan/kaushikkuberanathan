@@ -147,10 +147,15 @@ I'm interested in working with people who care about quality, clarity, and long-
 
 ## 📬 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-172033?style=flat-square&logo=googlechrome&logoColor=white)](https://kaushikkuberanathan.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikkumarkuberanathan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushik.kuberanathan@gmail.com)
-[![Career GPT](https://img.shields.io/badge/Career_GPT-10A37F?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team)
+<p>
+<a href="https://kaushikkuberanathan.github.io/"><img src="https://img.shields.io/badge/View_Portfolio-172033?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="38"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kaushikkumarkuberanathan/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38"></a>
+&nbsp;&nbsp;
+<a href="mailto:kaushik.kuberanathan@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="38"></a>
+&nbsp;&nbsp;
+<a href="https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team"><img src="https://img.shields.io/badge/Try_the_Career_GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Career GPT" height="38"></a>
+</p>
 
 ---
 
