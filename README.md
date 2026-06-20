@@ -147,9 +147,10 @@ I'm interested in working with people who care about quality, clarity, and long-
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik%20Kuberanathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikkumarkuberanathan/) [![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushik.kuberanathan@gmail.com) [![Career Strategy GPT](https://img.shields.io/badge/AI%20Career%20Tool-Open%20GPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaushikkuberanathan.github.io-172033?style=for-the-badge&logo=githubpages&logoColor=white)](https://kaushikkuberanathan.github.io/) [![GitHub](https://img.shields.io/badge/GitHub-kaushikkuberanathan-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaushikkuberanathan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-172033?style=flat-square&logo=googlechrome&logoColor=white)](https://kaushikkuberanathan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikkumarkuberanathan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaushik.kuberanathan@gmail.com)
+[![Career GPT](https://img.shields.io/badge/Career_GPT-10A37F?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69149958111c81918774f96ef886d90e-kaushik-s-career-strategy-team)
 
 ---
 
