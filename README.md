@@ -2,7 +2,7 @@
 
 ### Product & Platform Leader · Digital Commerce · AI-Assisted Builder
 
-I lead product strategy and delivery for a digital ecosystem serving **5M+ monthly active users** at Cox Communications — 15+ years turning ambiguous, regulated, or operationally complex problems into scalable product systems. Outside of enterprise work, I design, build, and ship AI-assisted products myself, including a production youth-sports platform used by real coaches on game day.
+I lead product strategy and delivery for a digital ecosystem serving **5M+ monthly active users** at Charter Communications / Spectrum — 15+ years turning ambiguous, regulated, or operationally complex problems into scalable product systems. Outside of enterprise work, I design, build, and ship AI-assisted products myself, including a production youth-sports platform used by real coaches on game day.
 
 <p>
   <a href="https://kaushikkuberanathan.github.io/">
